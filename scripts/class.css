@@ -1,0 +1,28 @@
+.background {
+    background-color: white;
+}
+.header {
+    background-color: aquamarine;
+    color: black;
+
+}
+.blurb {
+    background-color: aquamarine;
+    color: black;
+    text-indent: 10px;
+    text-align: center;
+    font-family: Arial,"Times New Roman", Times, serif;
+}
+
+.center {
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;    
+}
+.border{
+    border: 1% solid powderblue;
+    padding: 5%;
+    background-color: black;
+}
+
